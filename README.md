@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayhan612007" alt="rayhan612007" /></a> </p>
 
-- 🔭 I’m currently working on [Nature's Platter](nature-s-platter-zeta.vercel.app Activity Stars 0 stars Watchers 0 watching Forks 0 forks Releases No releases published Create a new release Deployments 1 (1) Production 3 days ago Packages No packages published Publish your first package Contributors 1 (1) @rayhan612007 rayhan612007Rayhan_Sarker Languages HTML 99.9% CSS 0.1% Suggested workflows Based on your tech stack SLSA Generic generator logo SLSA Generic generator Generate SLSA3 provenance for your existing release workflows By Open Source Security Foundation (OpenSSF) Jekyll using Docker image logo Jekyll using Docker image Package a Jekyll site using the jekyll/builder Docker image. By GitHub Actions More workflows)
 
 - 🌱 I’m currently learning **react,tailwind**
 

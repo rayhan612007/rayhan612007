@@ -25,4 +25,4 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rayhan612007&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rayhan612007&repo=YOUR_REPOSITORY_NAME&theme=radial)](https://github.com/rayhan612007/YOUR_REPOSITORY_NAME)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rayhan612007&repo=YOUR_REPOSITORY_NAME&theme=radial)]([https://github.com/rayhan612007/YOUR_REPOSITORY_NAME](https://github.com/rayhan612007/Class_Project))

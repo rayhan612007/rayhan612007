@@ -24,29 +24,3 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rayhan612007&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rayhan612007&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=rayhan612007&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayhan612007&show_icons=true&locale=en&layout=compact" alt="rayhan612007" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayhan612007&show_icons=true&locale=en" alt="rayhan612007" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayhan612007&" alt="rayhan612007" /></p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayhan612007&show_icons=true&locale=en&layout=compact" alt="rayhan612007" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayhan612007&show_icons=true&locale=en" alt="rayhan612007" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayhan612007&" alt="rayhan612007" /></p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayhan612007&show_icons=true&locale=en&layout=compact" alt="rayhan612007" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayhan612007&show_icons=true&locale=en" alt="rayhan612007" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayhan612007&" alt="rayhan612007" /></p>

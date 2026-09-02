@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayhan612007&label=Profile%20views&color=0e75b6&style=flat" alt="rayhan612007" /> </p>
 <h3 align="left">📌 About Me</h3>
-- 🌱 I’m currently learning **React** and **Tailwind CSS**
+- 🌱 I’m currently learning **React and Tailwind CSS**
 
 - 💬 Ask me about **Tech & Front end web development**
 

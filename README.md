@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayhan612007&label=Profile%20views&color=0e75b6&style=flat" alt="rayhan612007" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayhan612007" alt="rayhan612007" /></a> </p>
 
 - 🌱 I’m currently learning **react,tailwind**
 

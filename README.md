@@ -6,13 +6,20 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayhan612007&label=Profile%20views&color=0e75b6&style=flat" alt="rayhan612007" /> </p>
 <h3 align="left">📌 About Me</h3>
 
-- 🌱 I’m currently learning **React and Tailwind CSS**
+❖ 🌱 I’m currently learning **React and Tailwind CSS**
 
-- 💬 Ask me about **Tech & Front end web development**
+❖ 💬 Ask me about **Tech & Front end web development**
 
-- 📫 How to reach me **mdaburayhan612007@gmail.com**
+❖ 📫 How to reach me **mdaburayhan612007@gmail.com**
 
-- ⚡ Fun fact **I am funny 😎**
+❖ ⚡ Fun fact **I am funny 😎**
+
+
+## 🛠️ What I'm Working On:
+- 🚀 Building interactive Frontend web applications using **React** & **Tailwind CSS**
+- ![Responsive Design](https://img.shields.io/badge/Responsive_Design-Mobile_|_Tablet_|_Desktop-38B2AC?style=for-the-badge&logo=responsive&logoColor=white)
+- 📚 Learning full-stack web development and exploring backend technologies
+- 🎨 Creating UI/UX designs and vector graphics
 
 
 ## 🌐 Socials:
@@ -28,7 +35,9 @@
 ### ⚙️ Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 
-
+### 🎨 UI/UX & Design Tools
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Penpot](https://img.shields.io/badge/penpot-%23000000.svg?style=for-the-badge&logo=penpot&logoColor=white)
 
 ### 🛠️ Design Tools
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
@@ -37,4 +46,8 @@
 ![](https://streak-stats.demolab.com/?user=rayhan612007&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rayhan612007&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies:
+![](https://github-profile-trophies.vercel.app/?username=rayhan612007&theme=onedark&margin-w=15&margin-h=15)
 
+## 🐍 Contribution Graph:
+![github contribution grid snake animation](https://raw.githubusercontent.com/rayhan612007/rayhan612007/output/github-contribution-grid-snake.svg)

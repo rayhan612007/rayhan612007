@@ -49,4 +49,4 @@
 
 
 ## 🐍 Contribution Graph:
-![github contribution grid snake animation][(https://github.com/rayhan612007/rayhan612007/blob/main/github-contribution-grid-snake.svg)]
+![Snake Animation][(https://github.com/rayhan612007/rayhan612007/blob/main/github-contribution-grid-snake.svg)]

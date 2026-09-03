@@ -17,9 +17,9 @@
 
 ## 🛠️ What I'm Working On:
 - 🚀 Building interactive Frontend web applications using **React** & **Tailwind CSS**
-- ![Responsive Design](https://img.shields.io/badge/Responsive_Design-Mobile_|_Tablet_|_Desktop-38B2AC?style=for-the-badge&logo=responsive&logoColor=white)
 - 📚 Learning full-stack web development and exploring backend technologies
 - 🎨 Creating UI/UX designs and vector graphics
+- - ![Responsive Design](https://img.shields.io/badge/Responsive_Design-Mobile_|_Tablet_|_Desktop-38B2AC?style=for-the-badge&logo=responsive&logoColor=white)
 
 
 ## 🌐 Socials:

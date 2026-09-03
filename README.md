@@ -46,8 +46,7 @@
 ![](https://streak-stats.demolab.com/?user=rayhan612007&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rayhan612007&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophies.vercel.app/?username=rayhan612007&theme=onedark&margin-w=15&margin-h=15)
+
 
 ## 🐍 Contribution Graph:
 ![github contribution grid snake animation](https://raw.githubusercontent.com/rayhan612007/rayhan612007/output/github-contribution-grid-snake.svg)

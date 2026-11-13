@@ -1,7 +1,7 @@
 ![Banner](https://raw.githubusercontent.com/rayhan612007/rayhan612007/main/mdaburayhan.jfif)
 
 <h1 align="center">Hi 👋, I'm Md Abu Rayhan</h1>
-<h3 align="center">Full-Stack MERN Developer | Learning 
+<h3 align="center">Full-Stack Web Developer (MERN) | Learning 
 Web Development at Programming Hero</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayhan612007&label=Profile%20views&color=0e75b6&style=flat" alt="rayhan612007" /> </p>

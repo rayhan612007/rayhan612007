@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/rayhan612007/rayhan612007/main/mdaburayhan.jfif)
+![Banner](https://raw.githubusercontent.com/rayhan612007/rayhan612007/main/rayhan.png)
 
 <h1 align="center">Hi 👋, I'm Md Abu Rayhan</h1>
 <h3 align="center">Full-Stack Web Developer (MERN) | Learning 
